@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplinks",
+    "package_name": "com.aiml.rockhero",
     "sha256_cert_fingerprints":
-    ["69:08:49:FA:E4:17:39:03:9D:B1:61:82:3E:B8:09:94:B5:5A:7B:9C:8F:5C:11:69:8F:1A:AB:76:19:C0:96:76"]
+    ["01:3F:2D:9E:6F:F7:CB:06:F3:05:8A:15:44:4B:24:3D:05:85:4D:53:39:16:19:6B:75:15:E5:81:80:DD:D3:66"]
   }
 }]
